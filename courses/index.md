@@ -1,10 +1,10 @@
---
+---
 title: courses
 layout: default
 nav_order: 1
 ---
 
-# cp's class
+# just-the-docs class
 
 - [Broadcast](./broadcast/)  
 - [Courses](./courses/)
